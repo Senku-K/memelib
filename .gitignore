@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+memelib-venv/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+
+# Media & static files (user uploads)
+media/
+staticfiles/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python Environment
+.env
+*.env
+*.env.*
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.~*
+
+# Coverage and test
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Node modules (if you use npm for frontend)
+node_modules/
+
+# Build
+build/
+dist/
+*.egg-info/
+
